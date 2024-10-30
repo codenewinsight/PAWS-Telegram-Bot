@@ -13,15 +13,14 @@
 - Support Multi Account
 
 
+
+
 **Instructions:**
 
 **NODEJS MUST BE INSTALLED.**
 
-Run the following command to install the necessary modules:
+Run `npm install` to install the necessary modules:
 
-```bash
-npm install
-```
 Input data in files: `data.txt` , `proxy.txt` , `wallet.txt`
 
 **Proxy format:** `http://user:pass@ip:port`
@@ -30,8 +29,9 @@ Input data in files: `data.txt` , `proxy.txt` , `wallet.txt`
 
 **Wallet format:** `wallet address`
 
-
 Run the tool with the command:`node paws.js` or `node paws-proxy.js`
+
+
 
 
 Bellow part only for whom own wallet with format v4R2
@@ -41,6 +41,8 @@ Bellow part only for whom own wallet with format v4R2
 - Install modules `npm install tonweb tonweb-mnemonic`
 
 - Run file v4r2.js `node v4r2.js` to get wallet data
+
+
 
 
 Join my Telegram: [LINK](https://t.me/scriptsharing)
