@@ -47,4 +47,4 @@ Bellow part only for whom own wallet with format v4R2
 
 Join my Telegram: [LINK](https://t.me/scriptsharing)
 
-Sourcecode/dancayairdrop.
+Sourcecode/dancayairdrop..
